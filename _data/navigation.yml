@@ -15,14 +15,14 @@
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
 
-title: Episodes
+- title: Episodes
   url: https://github.com/mmistakes/so-simple-theme#navigation
 
 
-title: About
+- title: About
   url: /categories/
 
 
-title: Contact
+- title: Contact
   url: /contact/
 
