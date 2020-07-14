@@ -3,6 +3,10 @@ layout: post
 title:  "Argh"
 date:   2020-07-12 17:42:54 +0200
 categories: jekyll update
+image: 
+  path: /images/choco.jpg
+  thumbnail: /images/choco-T.jpg
+  caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
