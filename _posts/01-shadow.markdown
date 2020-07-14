@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Argh"
+title:  "01 - Shadow of the Comet"
 date:   2020-07-12 17:42:54 +0200
 categories: jekyll update
 image: 
