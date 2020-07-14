@@ -3,6 +3,7 @@ layout: post
 title:  "Argh"
 date:   2020-07-12 17:42:54 +0200
 categories: jekyll update
+page.image.thumbnail: /images/choco-T.jpg
 image: 
   path: /images/choco.jpg
   thumbnail: /images/choco-T.jpg
