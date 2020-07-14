@@ -3,7 +3,7 @@
 sitemap: false
 ---
 
-
+@import "{{ site.theme }}";
 .site-logo-img
 {
 width: 200px;
