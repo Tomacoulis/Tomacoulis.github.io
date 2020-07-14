@@ -2,16 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 sitemap: false
 ---
-@font-face {
-  font-family: myFirstFont;
-  src: url(/fonts/ka1.ttf);
-}
-
-h1
-{
-    font-family: myFirstFont;
-    //text-rendering: optimizeLegibility;
-}
 
 @charset "utf-8";
 
