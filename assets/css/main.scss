@@ -3,15 +3,15 @@
 sitemap: false
 ---
 
-@charset "utf-8";
 
-@import "so-simple";
-@import "{{ site.theme }}";
-{
 .site-logo-img
 {
 width: 200px;
 height: 200px;
 border-radius: 200px;
 }
-}
+
+
+@charset "utf-8";
+
+@import "so-simple";
